@@ -1,0 +1,59 @@
+#A)TABLE TAG
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Table</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>CS</th>
+            <th>IT</th>
+        </tr>
+        <tr>
+            <td>PYIT</td>
+            <td>FYCS</td>
+        </tr>
+        <tr>
+            <td>SYIT</td>
+            <td>SYCS</td>
+        </tr>
+    </table>
+</body>
+</html>
+
+#B) form filling tag
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>alex</title>
+</head>
+<body>
+    <h1>FORM FILLING</h1>
+    <form>
+        <table>
+            <tr>
+                <td><label for="name">Name</label></td>
+                <td><input type="text" id="name" name="name" placeholder="Enter your name" /></td>
+            </tr>
+            <tr>
+                <td><label for="email">Email</label></td>
+                <td><input type="email" id="email" name="email" placeholder="abc@gmail.com" /></td>
+            </tr>
+            <tr>
+                <td><label for="password">Password</label></td>
+                <td><input type="password" id="password" name="password" placeholder="Enter your password" /></td>
+            </tr>
+            <tr>
+                <td><label for="telenum">Telephone</label></td>
+                <td><input type="tel" id="telenum" name="telenum" placeholder="491 xxxxxxxxxx" /></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Submit" /></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
