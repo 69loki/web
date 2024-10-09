@@ -1,0 +1,52 @@
+#A)
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>web page</title>
+  </head>
+  <body>
+      <h1>alex</h1>
+      <p>i am alex from gorakhpur</p>
+  </body>
+</html>
+
+#B)text formating tag
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TEXT FORMATING TAGS</title>
+  </head>
+  <body>
+      <h1>alex</h1>
+      <p>this is new paragraph</p>
+      <p><b>this is a bold example</b></p>
+      <p><b><i>this is a new semtence without a paragraph break in bold italic</i></b></p>
+      <hr>
+      <p><u>my first page</u></p>
+  </body>
+</html>
+
+#C)list tag
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>list tag</title>
+  </head>
+  <body>
+      <h1>alex</h1>
+      <p>an ordered list</p>
+      <ol type ="2">
+        <li>html</li>
+        <li>css</li>
+        <li>php</li>
+        
+      </ol>
+      <p>an unordered list</p>
+      <ul>
+        <li>html</li>
+        <li>css</li>
+        <li>php</li>
+      </ul>
+  </body>
+</html>
